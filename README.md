@@ -15,12 +15,12 @@ O ProjetoConcursos é uma aplicação voltada para o gerenciamento de concursos 
   
 **Funcionalidades** 
 
-✅ Cadastro de concursos com informações como nome, edital, inscrições abertas, cargos e etapas
+  ✅ Cadastro de concursos com informações como nome, edital, inscrições abertas, cargos e etapas
 
-✅ Gerenciamento de candidatos e acompanhamento do status da inscrição
+  ✅ Gerenciamento de candidatos e acompanhamento do status da inscrição
 
-✅ Registro e controle das etapas do concurso (inscrição, provas, resultados, classificação, etc.)
+  ✅ Registro e controle das etapas do concurso (inscrição, provas, resultados, classificação, etc.)
 
-✅ Relatórios e filtros para facilitar a administração
+  ✅ Relatórios e filtros para facilitar a administração
 
-✅ Integração com banco de dados (se aplicável)
+  ✅ Integração com banco de dados (se aplicável)
