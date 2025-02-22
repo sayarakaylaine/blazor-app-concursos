@@ -1,4 +1,4 @@
-# App Concursos
+# App Cadastro Concursos
 Sistema desenvolvido para o gerenciamento de concursos, permitindo o cadastro, acompanhamento e administração de processos seletivos.
 
 **Descrição:** 
