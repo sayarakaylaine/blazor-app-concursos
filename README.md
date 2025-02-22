@@ -7,10 +7,10 @@ O ProjetoConcursos é uma aplicação voltada para o gerenciamento de concursos 
 
 **Tecnologias Utilizadas:** 
 
-* Blazor (se aplicável) – Desenvolvimento de interfaces interativas
+* Blazor – Desenvolvimento de interfaces interativas
 * C# / .NET – Backend para a lógica do sistema
-* Entity Framework Core (se houver banco de dados) – Gerenciamento de dados
-* Banco de Dados (se aplicável) – SQL Server, MySQL, PostgreSQL ou outro
+* Entity Framework Core – Gerenciamento de dados
+* Banco de Dados – SQL Server, MySQL, PostgreSQL ou outro
 * HTML, CSS – Estilização da interface
   
 **Funcionalidades:** 
